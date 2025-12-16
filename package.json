@@ -1,0 +1,26 @@
+{
+  "name": "is-twenty-one",
+  "version": "1.0.0",
+  "description": "Package for determining whether the given piece of data is Twenty One",
+  "keywords": [
+    "21",
+    "twenty",
+    "one",
+    "twenty-one"
+  ],
+  "homepage": "https://github.com/tqazanbas21/is-twenty-one#readme",
+  "bugs": {
+    "url": "https://github.com/tqazanbas21/is-twenty-one/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tqazanbas21/is-twenty-one.git"
+  },
+  "license": "UNLICENSED",
+  "author": "Mergen Bauyrzhan",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log(21)"
+  }
+}
